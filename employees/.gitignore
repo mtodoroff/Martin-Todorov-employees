@@ -1,0 +1,12 @@
+HELP.md
+.idea
+*.iws
+*.iml
+*.ipr
+*.mvn
+target
+*.cmd
+mvnw
+.properties
+article_images
+uploads
